@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/letrung2004/e_newspaper
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/letrung2004/ai-news-react
+[submodule "chatbot_RAG"]
+	path = chatbot_RAG
+	url = https://github.com/letrung2004/news_rag_chatbot
